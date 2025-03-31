@@ -1,6 +1,6 @@
 <h1>Awesome 2D Fantasy Shooter - C++ Game</h1>
 
- ### [YouTube Demonstration](https://youtu.be/0j2XiZ--i3Q)
+ ### [YouTube Demonstration](https://youtu.be/AQVQTYTbsOc)
 
 <h2>Description</h2>
 This project is a simple 2D game written in C++. Walk around, kill some slimes, score some points.
