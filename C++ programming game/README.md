@@ -1,9 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 #  Awesome 2D Fantasy Shooter
 
-Some changes.
-
-This is a short and succint description of this project. 
+## Game Description
 Run around and kill enemies that are spawning, get the highest score you can and relax by enjoying the music.
 
 Features:
@@ -26,10 +24,6 @@ Instructions to build on Windows platforms:
 2) Select Release configuration, and x64 Architecture;
 3) Compile and run the project.
 
-## Contact
-
-Your Name - Krystian.Walus@mail.bcu.ac.uk
-
 ## Benchmarks
 
 Below are two benchmarks which were completed using the performance profiler. As for the CPU performance, it seems to jump slightly whenever there's an input. As for the memory, its usage jumps up when there are objects (and their instances) in the game. More objects = higher RAM usage, although these are some minmal changes at the moment. In this case, it's the amount of bullets on screen/in-game that affects the usage.
@@ -51,15 +45,3 @@ Final Memory Usage
 ![Memory Usage - final](https://user-images.githubusercontent.com/91696197/212234962-64f8e676-d0be-496c-9574-17c9917ac9d3.png)
 
 In conclusion, the CPU and Memory usage aren't very high, which is understandable since the game isn't very big and/or complex. However, it does seem like a bit much at times, considering how simple the game is. Some of the things that could have been done in order to improve the code would be using object pooling for the bullets, or writing more efficient code for tilemap collision since the current one is an overkill.
-
-## References
-
-- Lab Tutorials
-- "How to add sound with SDL2", 2022, online video, 4 March, Alley B, https://youtu.be/9H3HPq-BTMo
-- "Mage Rework", 2019, sprite asset, 25 November, AntumDeluge, https://opengameart.org/content/mage-rework
-- "Slime monster 24x24", 2018, sprite asset, 11 June, Bonsaiheldin, https://opengameart.org/content/slime-monster-24x24
-- "TileCraft Tile set - Ground", 2016, tilemap, 17 June, GrumpyDiamond, https://opengameart.org/content/tilecraft-tile-set-ground
-- "RPG - The Secret Within The Woods", 2018, music, 4 April, Hitctrl, https://opengameart.org/content/rpg-the-secret-within-the-woods
-- "Penguin SFX", 2015, sound effect, 7 July, Ouren, https://opengameart.org/content/penguin-sfx
-- "Spell 4 (fire)", 2009, sound effect, 11 May, Bart K., https://opengameart.org/content/spell-4-fire
-- "Whip sound", 2019, sound effect, 20 September, Reemax, https://opengameart.org/content/whip-sound
