@@ -35,3 +35,18 @@ Game Screen - Shooting: <br/>
 Game Screen - Collision: <br/>
 <img src="https://i.imgur.com/7yEAVGL.png" height="80%" width="80%" alt="Mobile Game Screenshot"/>
 <br />
+
+<p align="center">
+Player Character Initialization Code (Player.cpp): <br/>
+<img src="https://i.imgur.com/QGZg0ns.png" height="80%" width="80%" alt="Mobile Game Screenshot"/>
+<br />
+
+<p align="center">
+Sprite Change During Player's Movement Code (Player.cpp): <br/>
+<img src="https://i.imgur.com/bbEdXF9.png" height="80%" width="80%" alt="Mobile Game Screenshot"/>
+<br />
+
+<p align="center">
+Movement Code (Player.cpp, GameLoop.cpp): <br/>
+<img src="https://i.imgur.com/YSgvOJp.png" height="80%" width="80%" alt="Mobile Game Screenshot"/>
+<br />
